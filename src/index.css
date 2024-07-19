@@ -1,6 +1,6 @@
 /*Estilos Gerais*/
 body{
-    background-color: #d2d2da;
+    background-color: #e1f4f9;
     padding: 0;
     margin: 0;
     font-family: "Montserrat", sans-serif;
@@ -9,7 +9,7 @@ body{
 input::placeholder,
 textarea::placeholder{
     font-family: "Montserrat", sans-serif;
-    color: #aaa;
+    color: #2b2424;
 }
 
 input:focus,
@@ -21,7 +21,7 @@ a, nav button{
     text-decoration: none;
     background-color: transparent;
     border: none;
-    color: #edf5f8;
+    color: #165166;
     transition: 0.4s;
     font-size: 1em;
     cursor: pointer;
